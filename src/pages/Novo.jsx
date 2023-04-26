@@ -1,4 +1,4 @@
-import Section from "/ADS IESB/3 semestre/front end/MeuSiteReact/meusitereact/src/components/Section"
+import Section from "../components/Section"
 
 export default function Novo() {
     return (
